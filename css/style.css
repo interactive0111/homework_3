@@ -1,0 +1,112 @@
+
+*,
+*::before,
+*::after {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+li {
+	list-style: none;
+}
+a,
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-weight: inherit;
+	font-size: inherit;
+}
+img {
+	vertical-align: top;
+}
+
+
+
+
+p{
+	color: aqua; font-size: 14px;
+}
+span{
+	color: red;
+}
+.subtitle{
+	color: seagreen; font-size: 30px;
+}
+.subtitle.title{
+	color: yellow;
+}
+.list{
+	color: rgb(199, 17, 87);
+}
+#text1{
+	color: rgb(158, 121, 19);
+}
+span.text{
+	color: springgreen; font-size: 30px;
+}
+h1{
+	color: yellow;
+}
+h2{
+	color: red;font-size: 50px;
+}
+#text2{
+	color: salmon; font-size: 22px;
+}
+#text3{
+	color: cornflowerblue; font-size: 33px;;
+}
+#text4{
+	color: darkblue;
+}
+span.alpha{
+	color: darkolivegreen; font-size: 22px;
+}
+.item{
+	color: darkslateblue;
+}
+a{
+	color: dodgerblue; font-size: 20px;
+}
+span.beta{
+	color: red;font-size: 14px;
+}
+span.gamma{
+	color: blue; font-size: 16px;
+}
+span.delta{
+	color: green; font-size: 18px;
+}
+span.epsilon{
+	color: rgb(11, 60, 66); font-size: 22px;
+}
+span.kappa{
+	color: plum; font-size: 20px;
+}
+span.zeta{
+	color: black; font-size: 22px;
+}
+span.eta{
+	color: chartreuse; font-size: 24px;
+}
+span.theta{
+	color: rgb(138, 44, 44); font-size: 26px;
+}
+.pound{
+	color: darkolivegreen;
+}
+.copy + p{
+	color: rgb(131, 7, 110);
+}
+.times{
+	color: royalblue; font-size: 24px;
+}
